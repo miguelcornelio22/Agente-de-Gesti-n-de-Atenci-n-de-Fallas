@@ -1,0 +1,17 @@
+ID;Nombre;Ubicacion;Criticidad;Historial
+EQA-1001;Bomba Principal;Planta-Cusco;Alta;Falla de presión en 2024
+EQA-1002;Válvula de Control;Planta-Cusco;Media;Obstrucción parcial en 2023
+EQA-1003;Compresor A;Planta-Cusco;Alta;Sobrecalentamiento en 2025
+EQA-1004;Generador Diesel;Planta-Cusco;Baja;Cambio de filtros en 2022
+EQA-2001;Bomba Secundaria;Planta-Lima;Alta;Fuga detectada en 2024
+EQA-2002;Válvula de Seguridad;Planta-Lima;Media;Reemplazo de sello en 2023
+EQA-2003;Compresor B;Planta-Lima;Alta;Vibración excesiva en 2025
+EQA-2004;Generador Eléctrico;Planta-Lima;Media;Mantenimiento preventivo en 2024
+EQA-3001;Bomba de Enfriamiento;Planta-Arequipa;Media;Presión irregular en 2023
+EQA-3002;Válvula de Corte;Planta-Arequipa;Baja;Lubricación deficiente en 2022
+EQA-3003;Compresor C;Planta-Arequipa;Alta;Falla térmica en 2025
+EQA-3004;Generador Auxiliar;Planta-Arequipa;Media;Cambio de filtros en 2024
+EQA-4001;Bomba de Transferencia;Planta-Piura;Alta;Fuga menor en 2024
+EQA-4002;Válvula de Retención;Planta-Piura;Media;Obstrucción parcial en 2023
+EQA-4003;Compresor D;Planta-Piura;Alta;Vibración excesiva en 2025
+EQA-4004;Generador Principal;Planta-Piura;Baja;Mantenimiento preventivo en 2022

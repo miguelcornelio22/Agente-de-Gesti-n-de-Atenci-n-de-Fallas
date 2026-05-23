@@ -1,0 +1,17 @@
+ID_Equipo;Repuesto;Stock;TiempoReposicion
+EQA-1001;Bomba Principal;0;30 días
+EQA-1002;Sello Válvula;5;7 días
+EQA-1003;Compresor A;2;15 días
+EQA-1004;Filtro Diesel;10;2 días
+EQA-2001;Bomba Secundaria;1;20 días
+EQA-2002;Sello Seguridad;0;45 días
+EQA-2003;Compresor B;3;10 días
+EQA-2004;Generador Eléctrico;4;5 días
+EQA-3001;Bomba de Enfriamiento;2;14 días
+EQA-3002;Válvula de Corte;6;7 días
+EQA-3003;Compresor C;1;20 días
+EQA-3004;Generador Auxiliar;8;3 días
+EQA-4001;Bomba de Transferencia;0;30 días
+EQA-4002;Válvula de Retención;5;7 días
+EQA-4003;Compresor D;2;15 días
+EQA-4004;Generador Principal;9;2 días
